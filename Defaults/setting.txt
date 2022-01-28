@@ -5,4 +5,3 @@ stdv_T: NaN
 query_age_start: NaN
 query_age_end: NaN
 number_of_query_ages: 101
-K: 5
