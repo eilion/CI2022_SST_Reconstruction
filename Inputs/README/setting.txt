@@ -1,0 +1,3 @@
+This text file defines input-specific hyperparameters and settings.
+The format is identical to 'Defaults/setting.txt'.
+It is okay to define different hyperparameters and settings only.

@@ -1,0 +1,4 @@
+This text file defines an input sediment core.
+It should consist of two columns.
+First column: age (in ka bp)
+Second column: UK'37 records at ages in the first column

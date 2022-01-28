@@ -1,0 +1,4 @@
+query_age_start: 0
+query_age_end: 800
+number_of_query_ages: 801
+K: 10

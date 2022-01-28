@@ -1,0 +1,5 @@
+This text file defines the calibration curve to use.
+It should consist of three columns.
+First column: sea surface temperatures (degree in celsius)
+Second column: mean of UK'37 at SST in the first column
+Third column: standard deviation of UK'37 at SST in the first column
